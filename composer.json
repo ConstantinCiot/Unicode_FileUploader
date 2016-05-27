@@ -3,6 +3,9 @@
     "type": "magento-module",
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
+    },
+    "extra": {
+        "magento-force": true
     }
 }
 
