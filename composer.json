@@ -1,0 +1,10 @@
+{
+    "name": "Uni/FileUploader",
+    "type": "magento-module",
+    "description": "Magento Uni FileUploader",
+    "homepage": "http://store.unicodesystems.in/extensions/product-attachments-extension.html",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
+
