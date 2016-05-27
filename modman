@@ -1,5 +1,5 @@
-app/design/adminhtml/default/* app/design/adminhtml/default//default
-app/design/frontend/base/* app/design/frontend/community/
+app/design/adminhtml/default/* app/design/adminhtml/default/
+app/design/frontend/base/default/template/* app/design/frontend/community/default/template/
 app/code/community/Uni app/code/community/Uni
 app/code/community/Uni/Common app/code/community/Uni/Common
 app/code/community/Uni/Fileuploader app/code/community/Uni/Fileuploader
