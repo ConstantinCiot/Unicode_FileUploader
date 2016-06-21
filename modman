@@ -4,3 +4,4 @@ app/design/frontend/base/default/template/* app/design/frontend/community/defaul
 app/code/community/Uni/Common/* app/code/community/Uni/Common/
 app/code/community/Uni/Fileuploader/* app/code/community/Uni/Fileuploader/
 app/etc/modules/* app/etc/modules/
+js/fileuploader/* js/fileuploader/
